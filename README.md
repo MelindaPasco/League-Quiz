@@ -1,5 +1,10 @@
 # lol-quiz
 
+I love League of Legends' Lore so here is a little quizz.  
+More questions might be added in the future.  
+  
+It was also a way to learn & experiment with Vue 3 Script Setup Syntax. 
+
 ## Project setup
 ```
 npm install
